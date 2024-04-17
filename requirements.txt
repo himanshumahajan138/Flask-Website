@@ -5,4 +5,4 @@ Flask_Toastr==0.5.8
 pymongo==4.4.0
 python-dotenv==1.0.0
 Requests==2.31.0
-gunicorn==20.1.0
+gunicorn==22.0.0
